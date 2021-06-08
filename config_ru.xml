@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>expresspayepos</name>
+    <displayName><![CDATA[Экспресс Платежи: E-POS]]></displayName>
+    <version><![CDATA[1.0]]></version>
+    <description><![CDATA[Плагин позволяет выставить счёт в системе E-POS, получить и обработать уведомление в системе E-POS.]]></description>
+    <author><![CDATA[ООО &quot;ТриИнком&quot;]]></author>
+    <tab><![CDATA[payments_gateways]]></tab>
+	<confirmUninstall><![CDATA[Вы уверены, что хотите удалить модуль?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

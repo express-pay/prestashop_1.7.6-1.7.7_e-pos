@@ -1,0 +1,37 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{expresspayepos}prestashop>expresspayepos_61f78e92b6026ea709f2c79a9bbaabb9'] = 'Экспресс Платежи: E-POS';
+$_MODULE['<{expresspayepos}prestashop>expresspayepos_4ce01ec68e84afee597127f8f6c2673b'] = 'Плагин позволяет выставить счёт в системе E-POS, получить и обработать уведомление в системе E-POS.';
+$_MODULE['<{expresspayepos}prestashop>expresspayepos_aa0cfa6dd067d348a32527c006938cc1'] = 'Вы уверены, что хотите удалить модуль?';
+$_MODULE['<{expresspayepos}prestashop>expresspayepos_7d3fdf783b4d9f0f2d30b2269e26626f'] = 'Настройки модуля Экспресс Платежи: E-POS';
+$_MODULE['<{expresspayepos}prestashop>expresspayepos_459a6f79ad9b13cbcb5f692d2cc7a94d'] = 'Поле \"Токен\" должно быть установлено, чтобы использовать данный модуль.';
+$_MODULE['<{expresspayepos}prestashop>expresspayepos_b9c6dc0ac7d25eb584eff7e8f907f01d'] = 'Ваш токен с сайта express-pay.by';
+$_MODULE['<{expresspayepos}prestashop>expresspayepos_0612c008c0ceac34b53b5ca6a5ac4814'] = 'Номер услуги';
+$_MODULE['<{expresspayepos}prestashop>expresspayepos_b40e33717409888789975fe8036f592a'] = 'Ваш номер услуги с сайта express-pay.by';
+$_MODULE['<{expresspayepos}prestashop>expresspayepos_a6f86eabb8652f009d4b0d9f8bea1601'] = 'Код в EPOS';
+$_MODULE['<{expresspayepos}prestashop>expresspayepos_3c238ef892ff8d0c74bbfeb895eac788'] = 'Ваш код в EPOSс сайта express-pay.by';
+$_MODULE['<{expresspayepos}prestashop>expresspayepos_a2b787ad97ab6f553dded04fc19dab01'] = 'Адрес для уведомлений';
+$_MODULE['<{expresspayepos}prestashop>expresspayepos_02c809f49ce5156bfb45ab974a5cb52d'] = 'Скопируйте этот адрес в поле \"URL для уведомлений\" на сайте express-pay.by';
+$_MODULE['<{expresspayepos}prestashop>expresspayepos_7d0bc37d6fa06912eb27960f7e3ce0ee'] = 'Использовать цифровую подпись для API';
+$_MODULE['<{expresspayepos}prestashop>expresspayepos_93cba07454f06a4a960172bbd6e2a435'] = 'Да';
+$_MODULE['<{expresspayepos}prestashop>expresspayepos_bafd7322c6e97d25b6299b5d6fe8920b'] = 'Нет';
+$_MODULE['<{expresspayepos}prestashop>expresspayepos_71f1beebbc9e33147259857832cf63c3'] = 'Секретное слово для подписи счетов';
+$_MODULE['<{expresspayepos}prestashop>expresspayepos_efb080fec42d7dca41c771fe2d49108f'] = 'Использовать цифровую подпись для уведомлений';
+$_MODULE['<{expresspayepos}prestashop>expresspayepos_363c3eb2417d8d90acae0f2d6e7d6d86'] = 'Секретное слово для подписи уведомлений';
+$_MODULE['<{expresspayepos}prestashop>expresspayepos_28ebe55e46817125b0338e1dcc315c5a'] = 'Разрешить изменять ФИО плательщика';
+$_MODULE['<{expresspayepos}prestashop>expresspayepos_bc98db939fb07feeb76bcfda1d283859'] = 'Разрешить изменять адрес плательщика';
+$_MODULE['<{expresspayepos}prestashop>expresspayepos_54d2bb424b83ad349dc07d5a81d70211'] = 'Разрешить изменять сумму оплаты';
+$_MODULE['<{expresspayepos}prestashop>expresspayepos_bfc6756ac55b47de90e35ddc728ff374'] = 'Использовать тестовый режим';
+$_MODULE['<{expresspayepos}prestashop>expresspayepos_1f37743cdcdef44b3d80e8c166c6c3ce'] = 'Адрес API';
+$_MODULE['<{expresspayepos}prestashop>expresspayepos_733a6825da8174e401d4fb62d0f1cd86'] = 'Адрес тестового API';
+$_MODULE['<{expresspayepos}prestashop>expresspayepos_c9cc8cce247e49bae79f15173ce97354'] = 'Сохранить';
+$_MODULE['<{expresspayepos}prestashop>expresspayepos_630f6dc397fe74e52d5189e2c80f282b'] = 'Назад к списку';
+$_MODULE['<{expresspayepos}prestashop>redirect_66fcd8877ced7b2ab8555c03ac17eaaf'] = 'Ожидание перенаправления';
+$_MODULE['<{expresspayepos}prestashop>redirect_4caffb2a58fc0bd6f790d3e85b054125'] = 'Оплатить';
+$_MODULE['<{expresspayepos}prestashop>infos_d3d9f1aee8b488de3ead8fafb2d0bd26'] = 'Данный плагин позволяет создавать счета для оплаты заказ через систему E-POS';
+$_MODULE['<{expresspayepos}prestashop>infos_e444fe40d43bccfad255cf62ddc8d18f'] = 'Если пользователь выберет данный метод оплаты, то заказ получит статус \"Ожидание оплаты\"';
+$_MODULE['<{expresspayepos}prestashop>infos_5f8dd6029ccaa3fc8c5c7db63aad878d'] = 'Заказ будет подтверждён сразу же после его оплаты в системе E-POS.';
+$_MODULE['<{expresspayepos}prestashop>payment_return_9bdf695c5a30784327137011da6ef568'] = 'С вашим заказом возникли проблема. Если вы считаете, что это не ваша вина, то свяжитесь со ';
+$_MODULE['<{expresspayepos}prestashop>payment_return_decce112a9e64363c997b04aa71b7cb8'] = 'службой поддержки.';
